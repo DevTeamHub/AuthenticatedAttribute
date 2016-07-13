@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DevTeam.AuthenticatedAttribute</id>
+    <version>0.0.2</version>
+    <title>Authenticated Attribute</title>
+    <authors>Dev Team Inc.</authors>
+    <owners>Dev Team Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Authenticated Attribute.</description>
+    <summary />
+    <releaseNotes>Unstable version without the documentation.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <dependencies>
+      <dependency id="Microsoft.Aspnet.WebApi.Core" version="5.2.0" />
+      <dependency id="Microsoft.Aspnet.WebApi.Owin" version="5.2.0" />
+    </dependencies>
+  </metadata>
+</package>
